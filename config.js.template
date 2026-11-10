@@ -1,0 +1,3 @@
+// CARTO API key — written from SSM at deploy time, never committed
+// SSM path: /c314/shared/CARTO_API_KEY
+window.CARTO_API_KEY = "REPLACE_AT_DEPLOY";
